@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "サインはB (ドラマ ver.)",
+  "base_artist": "B小町",
+  "createdAt": "2025-12-05T15:06:52.494289Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サインはB (ドラマ ver.)",
+      "artist": "B小町",
+      "has_synced": false,
+      "path": "select/pl_01_サインはB_(ドラマ_ver.)_B小町.txt"
+    }
+  ]
+}
